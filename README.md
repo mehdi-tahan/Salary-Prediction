@@ -18,4 +18,4 @@ This project is currently not licensed. All rights reserved.
 Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please feel free to open an issue or submit a pull request.
 
 ## Acknowledgments
-We would like to thank Data Roadmapfor their contributions or support to this project.
+We would like to thank Data Roadmap for their contributions or support to this project.
